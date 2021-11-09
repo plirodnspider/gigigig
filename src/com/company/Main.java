@@ -7,7 +7,7 @@ public class Main {
             System.out.println( "Hellow word");
 
 
-            System.out.println("Zioło to siurak");
+           // System.out.println("Zioło to siurak");
         }
 
 }
